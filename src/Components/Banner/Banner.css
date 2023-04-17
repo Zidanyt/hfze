@@ -1,0 +1,7 @@
+.banner { background-color: black; max-height: 400px; min-height: 100px; max-width: 100%; text-align: center; }
+.banner img {
+    max-width: 100%;
+    width: 60%;
+    max-height: 400px;
+    min-height: 100px;
+}
